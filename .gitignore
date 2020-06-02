@@ -5,4 +5,5 @@ data/__pycache__/*
 backup/*
 back/*
 model/*
+.idea/*
 !model/README.md
