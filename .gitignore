@@ -1,0 +1,8 @@
+__pycache__/*
+exp_log/*
+data/*.tfrecord
+data/__pycache__/*
+backup/*
+back/*
+model/*
+!model/README.md
